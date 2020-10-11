@@ -13,3 +13,5 @@ if __name__ == '__main__':
 
     access_token = AliceBlue.login_and_get_access_token(username, password, twoFa, api_secret)
     print(access_token)
+   #install alice-blue along with respective dependencies with latest python version
+   #pip install alice-blue
