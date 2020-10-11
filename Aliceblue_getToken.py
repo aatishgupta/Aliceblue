@@ -4,8 +4,8 @@ logging.basicConfig(level=logging.DEBUG)
 
 if __name__ == '__main__':
     #username and password through which you login to alice blue web portal
-    username ='AB166212'
-    password ='app#123597'
+    username ='ABCD1234'
+    password ='dspp#108462'
     #set all your questions answer same
     twoFa ='secret'
     #put a mail to  tradestore@aliceblueindia.com  to get api secret
